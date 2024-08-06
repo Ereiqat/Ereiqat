@@ -2,8 +2,8 @@
 
 - **Networks and Information Security Engineering (NIS)**
 - Studying at **Princess Sumaya University for Technology (PSUT)**
-- Passionate about **GRC (Governance, Risk, and Compliance)** and **Information Security**
-- Constantly learning and staying up-to-date
+- Passionate about **Networking**, **GRC (Governance, Risk, and Compliance)** and **Information Security**
+- Completed a 3 months internship as an IT Infrastructure Engineer intern at **Arab Bank**. 
 - Awards-winning robotics enthusiast 🤖
 - Feel free to check out my portfolio at https://ereiqat.me. 🚀
 
